@@ -9,10 +9,10 @@
  - **Website:** [pixelbite-css.github.io](https://pixelbite-css.github.io)
 
 #### Themes
- - TODO
+ - [_submit your own_](https://github.com/orgs/Pixelbite-CSS/discussions/3)
 
 #### Submissions
-- Submit your themes via _forks_ or [discussion](https://github.com/orgs/Pixelbite-CSS/discussions/3) in our GitHub
+- Submit your themes via this [discussion](https://github.com/orgs/Pixelbite-CSS/discussions/3)
 
 #### Download Content
  - **License:** [LICENSE](https://github.com/Pixelbite-CSS/template/blob/main/LICENSE) ([download](https://raw.githubusercontent.com/Pixelbite-CSS/template/main/LICENSE))
