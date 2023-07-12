@@ -1,19 +1,18 @@
 ![image](https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/banner-yellow.png)
 
-### repository-name
- - What is this repository about, two short sentences. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Integer vulputate sem a nibh rutrum consequat. Nullam eget nisl.
+### themes
+ - This repository contains **Official** and **Verified** Pixelbite themes you can use on your website.
 
 #### Information
- - **Name:** repository-name
+ - **Name:** themes
  - **Version:** 1.0.0
- - **Website:** https://example.com
+ - **Website:** [https://example.com](https://pixelbite-css.github.io)
 
-#### Languages
- - Lorem ipsum
- - Excepteur sint
+#### Themes
+ - TODO
 
-#### Dependencies
- - Lorem ipsum
+#### Submissions
+- Submit your themes via _forks_ or [discussion](https://github.com/Pixelbite-CSS/) in our GitHub
 
 #### Download Content
  - **License:** [LICENSE](https://github.com/Pixelbite-CSS/template/blob/main/LICENSE) ([download](https://raw.githubusercontent.com/Pixelbite-CSS/template/main/LICENSE))
