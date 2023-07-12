@@ -12,7 +12,7 @@
  - [_submit your own_](https://github.com/orgs/Pixelbite-CSS/discussions/3)
 
 #### Submissions
-- Submit your themes via this [discussion](https://github.com/orgs/Pixelbite-CSS/discussions/3)
+- _**Submit your themes via this [discussion](https://github.com/orgs/Pixelbite-CSS/discussions/3)**_
 - **Submissions rules**
   - Please be _fair_ to others
   - Don't spam your submissions
