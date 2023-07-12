@@ -13,6 +13,18 @@
 
 #### Submissions
 - Submit your themes via this [discussion](https://github.com/orgs/Pixelbite-CSS/discussions/3)
+- **Submissions rules**
+  - Please be _fair_ to others
+  - Don't spam your submissions
+  - Submissions need to be at least 5 lines of code long
+  - Theme links only via [Github](https://github.com)
+  - **Keep your question out of this discussion**
+  - Submission needs to include
+    - _Theme name_
+    - _Author_
+    - _File name_
+    - _Code_ or _Link_
+    - _Preview Image_ 
 
 #### Download Content
  - **License:** [LICENSE](https://github.com/Pixelbite-CSS/template/blob/main/LICENSE) ([download](https://raw.githubusercontent.com/Pixelbite-CSS/template/main/LICENSE))
