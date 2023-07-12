@@ -12,7 +12,7 @@
  - TODO
 
 #### Submissions
-- Submit your themes via _forks_ or [discussion](https://github.com/Pixelbite-CSS/) in our GitHub
+- Submit your themes via _forks_ or [discussion](https://github.com/orgs/Pixelbite-CSS/discussions/3) in our GitHub
 
 #### Download Content
  - **License:** [LICENSE](https://github.com/Pixelbite-CSS/template/blob/main/LICENSE) ([download](https://raw.githubusercontent.com/Pixelbite-CSS/template/main/LICENSE))
