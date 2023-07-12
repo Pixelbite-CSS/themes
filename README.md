@@ -6,7 +6,7 @@
 #### Information
  - **Name:** themes
  - **Version:** 1.0.0
- - **Website:** [https://example.com](https://pixelbite-css.github.io)
+ - **Website:** [pixelbite-css.github.io](https://pixelbite-css.github.io)
 
 #### Themes
  - TODO
