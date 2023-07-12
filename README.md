@@ -17,13 +17,6 @@
 #### Download Content
  - **License:** [LICENSE](https://github.com/Pixelbite-CSS/template/blob/main/LICENSE) ([download](https://raw.githubusercontent.com/Pixelbite-CSS/template/main/LICENSE))
 
-#### Install
- - Installation via **nodejs** and **npm**
-```
-git clone https://github.com/example.git
-npm i
-npm start
-```
 #### Legal actions
  - Please, before using or cloning this project, read our [License Terms](https://github.com/Pixelbite-CSS/template/blob/main/LICENSE).
  - **By cloning, you are agreeing to the license and its intent.**
